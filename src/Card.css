@@ -1,0 +1,32 @@
+.card-container {
+    display: flex;
+    margin: 50px;
+    padding: 20px;
+  }
+  
+  .card1 {
+    border: 1px solid #ddd; /* Add border for styling */
+    padding: 20px; /* Add padding for spacing */
+    margin: 10px; /* Add margin for spacing */
+    background-color: blue;
+    color: white;
+  }
+  .card2 {
+    border: 1px solid #ddd; /* Add border for styling */
+    padding: 20px; /* Add padding for spacing */
+    margin: 10px; /* Add margin for spacing */
+    background-color: red;
+    color: white;
+  }
+  .card3 {
+    border: 1px solid #ddd; /* Add border for styling */
+    padding: 20px; /* Add padding for spacing */
+    margin: 10px; /* Add margin for spacing */
+    background-color: green;
+    color: white;
+  }
+  hr {
+    border: 2px solid black; /* Set the border color and style */
+    margin: 20px 0; /* Add margin for spacing */
+   
+  }
